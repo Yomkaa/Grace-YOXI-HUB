@@ -1,4 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.4.0 [https://moonveil.cc]
+-- yomka made it
 
 local gc=(getfenv())
 local Jc,Vb,Ga=(string.char),(string.byte),(bit32 .bxor)
